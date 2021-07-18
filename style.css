@@ -1,0 +1,28 @@
+.body_background{
+    background:linear-gradient(#e32794 0%, #f5700a 100%);
+    text-align: center;
+}
+
+.login_div1{
+    background-color:rgb(38, 184, 221);
+    width :25%;
+    margin-top: 40px;
+    margin-left: 540px;
+    margin-bottom: 30px;
+    margin-right: 520px;
+    border-radius: 15px;
+}
+
+.login_div2{
+    background-color:rgb(38, 184, 221);
+    width :25%;
+    margin-left: 540px;
+    margin-bottom: 30px;
+    margin-right: 520px;
+    border-radius: 15px;
+}
+.body_background1{
+    background:linear-gradient(#4888f0 0%, #63e0aa 100%);
+    text-align: center;
+    
+}
